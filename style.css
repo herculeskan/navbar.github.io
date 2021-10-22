@@ -180,7 +180,9 @@ nav {
   transform: rotate(90deg);
 }
 .logo {
-  height: 40px;
+ height: 200px;
+ width: 200px;
+ 
 }
 .links a {
   color: var(--clr-grey-3);
